@@ -1,6 +1,7 @@
 ---
 layout: documentation
 title: Heroku
+description: Installing The Lounge on Heroku.
 ---
 
 This document will explain how to install The Lounge on Heroku. To learn more
