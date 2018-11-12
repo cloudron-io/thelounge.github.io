@@ -53,7 +53,7 @@ a,
 a:hover,
 a:focus {
 	font-weight: bold;
-	color: #50a656;
+	color: hsl(124, 100%, 27%);
 }
 h2 {
 	font-size: 32px;
@@ -330,7 +330,7 @@ img {
 }
 .menu a:hover,
 .menu a.active {
-	color: #50a656;
+	color: hsl(124, 100%, 27%);
 }
 .menu a.active {
 	font-weight: bold;
